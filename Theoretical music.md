@@ -1,0 +1,4 @@
+Mode
+Interval
+Major
+Minor
