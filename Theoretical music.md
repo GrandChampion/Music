@@ -58,9 +58,6 @@
 ## 5. Alternating Texture
 - [Madrial: Secular(세속적인) 시같은 노래. Polyphony와 Homophony를 왔다갔다 한다.](https://youtu.be/x5sF28RN5r0)
 
-## 6. Suprimposing Texture
-
-
 
 ## Pitch (음높이)
 - A4, C6 등의 표기법을 사용한다.
@@ -74,3 +71,11 @@
 ## Drone
 - [뒤에서 한가지 음을 내면서, 가만히 있는 음.](https://youtu.be/BpmMeIQywYc)
 - Monophony에 있을수 있는데, 있어도 monophony이다.
+
+## Syllabic text
+- 음의 1개당 가사가 1개 인것.
+
+## Melisma: 1개의 가사로 몇초동안 이끌어 가는 것. 1개의 vowel을 몇초, 몇분동안 이끈다.
+- Syllabic text의 반댓말이다.
+- [In paradisum deducant te Angeli에서 -ge를 늘림](https://youtu.be/gu7mM_zqapA)
+- [Organum: A를 15초부터 끝까지 계속 늘린다.](https://youtu.be/6lxDrIn14l4)
