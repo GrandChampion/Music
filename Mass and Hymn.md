@@ -2,7 +2,6 @@
 - 찬양 의식
 - 종류: Easter, Christmas, Sunday service, Mass
 
-
 # Mass (미사)
 - 예수가 빵과 포도주를 준것에 대한 감사를 기리는 예배 행사.
 
