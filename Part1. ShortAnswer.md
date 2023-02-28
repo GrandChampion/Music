@@ -12,6 +12,8 @@ textbook 에서 찾아오기
 
 ### Neumes
 
+### Isorhythm
+
 ### Motet
 
 ### Polytextual
@@ -108,10 +110,6 @@ textbook 에서 찾아오기
 ### Chorale
 
 ### Strophic setting
-
-
-### Pietistic Lutheranism
-
 
 ### Cantata
 
