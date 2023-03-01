@@ -9,7 +9,6 @@
 - 미사 통상은 거행되는 전례 시기나 축일에 관계없이 날마다 동일하게 유지되는 미사 의식이다.
 - 종류: Kyrie, Gloria, Credo, Sanctus, Agnus Dei
 
-
 ### Proper (미사 고유문)
 - 거행되는 전례 시기나 축일에 따라 달라지는 미사 의식이다.
 - 종류: Introit, Alleluia, Offertory, Communion Antiphon
