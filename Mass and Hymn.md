@@ -6,26 +6,28 @@
 - 예수가 빵과 포도주를 준것에 대한 감사를 기리는 예배 행사.
 
 ### Ordinary (미사 통상문)
-- The Ordinary of the Mass consists of those parts of the Mass that remain the same from day to day, regardless of the liturgical season or feast being celebrated.
+- 미사 통상은 거행되는 전례 시기나 축일에 관계없이 날마다 동일하게 유지되는 미사 의식이다.
 - 종류: Kyrie, Gloria, Credo, Sanctus, Agnus Dei
 
 
 ### Proper (미사 고유문)
-- The Proper of the Mass that vary depending on the liturgical season or feast being celebrated.
+- 거행되는 전례 시기나 축일에 따라 달라지는 미사 의식이다.
 - 종류: Introit, Alleluia, Offertory, Communion Antiphon
 
 # Hymn vs Chant
-- while chants are characterized by simple melodies and repetitive rhythms, hymns typically have more complex melodies and harmonies
+- 성가는 단순한 멜로디와 반복적인 리듬이 특징인 반면, 찬송가는 일반적으로 더 복잡한 멜로디와 하모니를 가집니다.
 
 ## Hymn (찬송가)
-- hymn is a type of religious song that is typically written in strophic form, meaning that it consists of several verses with the same melody and a refrain that is repeated after each verse. Hymns often have four-part harmony, with multiple voices singing different parts that combine to create a rich, harmonious sound.
-- features rich harmonies, choral arrangements, and a range of musical instruments such as organs, pianos, and strings.
+- 찬송가는 일반적으로 유절 형식으로 쓰여진 일종의 종교 노래로, 동일한 멜로디와 후렴구가 반복되는 여러 구절로 구성되어 있음을 의미합니다.
+- 찬송가는 종종 네 부분으로 된 하모니를 가지고 있으며, 여러 성부가 서로 다른 부분을 노래하여 풍부하고 조화로운 소리를 만들어냅니다.
+- 풍부한 하모니, 합창 편곡, 오르간, 피아노, 현과 같은 다양한 악기가 특징입니다.
 - Liturgy (예배)에 부르는 노래.
 - Mass 에서도 Hymn을 부른다.
 - [Ave maris stella](https://youtu.be/6mcxEtyEUw4)
 
 ## Chant (성가)
-- A chant is a type of musical composition characterized by a simple melody and a repetitive rhythm. Chants often have a monophonic texture, meaning that there is only one melody line without any harmonization.
+- 성가는 단순한 선율과 반복적인 리듬을 특징으로 하는 음악 작곡의 한 유형입니다.
+- 성가는 종종 모노포닉한 질감을 가지고 있는데, 이는 화음 없이 멜로디 라인이 하나만 있다는 것을 의미합니다.
 - [In paradisum](https://youtu.be/S7F-N-Yd8dE)
 - [O quam mirabilis est-Hildergart](https://youtu.be/2VWD9bsy2yg)
 - [Columba aspexit](https://youtu.be/BpmMeIQywYc)
